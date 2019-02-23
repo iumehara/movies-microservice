@@ -1,3 +1,3 @@
 #!/bin/sh
 
-cd simple-gateway/ && ./mvnw test
+cd movies-microservice/simple-gateway/ && ./mvnw test
